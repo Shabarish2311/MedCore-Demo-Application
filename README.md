@@ -128,16 +128,6 @@ Add the following dependency to `pom.xml`:
 Enter your choice:
 ```
 
-## Related Project
-
-**MedCore Java Library**
-
-Maven coordinates:
-
-`com.medcore:medcore-java-library:1.0.0`
-
-Repository:https://github.com/Shabarish2311/MedCore-Java-Library
-
 ----------------------------------------------------------------------------------------------------------------
 ## MedCore Java Library
 

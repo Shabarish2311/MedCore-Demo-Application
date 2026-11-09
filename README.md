@@ -137,7 +137,3 @@ Maven coordinates:
 `com.medcore:medcore-java-library:1.0.0`
 
 Repository: Add the MedCore Library GitHub URL here.
-
-## License
-
-Specify the license applicable to the MedCore project before publishing or distributing it.

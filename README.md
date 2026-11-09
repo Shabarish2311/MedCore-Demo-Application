@@ -137,3 +137,24 @@ Maven coordinates:
 `com.medcore:medcore-java-library:1.0.0`
 
 Repository:https://github.com/Shabarish2311/MedCore-Java-Library
+
+----------------------------------------------------------------------------------------------------------------
+## MedCore Java Library
+
+This application uses the MedCore Java Library as an external Maven dependency.
+
+Library Repository: https://github.com/Shabarish2311/MedCore-Java-Library
+
+Maven coordinates:
+
+- Group ID: `com.medcore`
+- Artifact ID: `medcore-java-library`
+- Version: `1.0.0`
+
+Before running the demo application, clone the library repository and install it into your local Maven repository using:
+
+```bash
+mvn clean install
+```
+
+Then import and run the demo application.
